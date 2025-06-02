@@ -1,7 +1,7 @@
 # Klasyfikacja: Recenzja E-sklepów z Ubraniami
 Projekt wykorzystuje dane tekstowe, pochodzące z zestawu udostępnionego na [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews).\
 Wykorzystane dane dotyczą recenzji ubrań zakupionych przez sklepy online. Recenzje posiadają dwie formy: ręczny opis doświadczenie oraz ogólna ocena polecane/niepolecane.\
-Projekt pozwala na eksplorację danych z pomocą częstotliwości i chmury słów oraz proponuje model predykcyjny kwalifikacji recenzji według binarnej kategorii na bazie danych opisowych.\\
+Projekt pozwala na eksplorację danych z pomocą częstotliwości i chmury słów oraz proponuje model predykcyjny kwalifikacji recenzji według binarnej kategorii na bazie danych opisowych.
 
 Projekt powstał w ramach przedmiotu Projektowania Systemów Informatycznych na Wydziale Nauk Ekonomicznych Uniwersytetu Warszawskiego.
 
