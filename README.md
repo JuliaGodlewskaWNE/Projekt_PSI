@@ -13,4 +13,4 @@ Projekt powstał w ramach przedmiotu Projektowania Systemów Informatycznych na 
 
 # Część II Dokumentacja:
 
-Dokumentacja wymagań użytkownika
+Specyfikacja Wymagań Systemowych: [Specyfikacja_wymagan_systemowych.pdf](https://github.com/JuliaGodlewskaWNE/Projekt_PSI/blob/main/Specyfikacja_wymagan_systemowych.pdf)
